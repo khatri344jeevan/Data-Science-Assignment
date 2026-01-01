@@ -1,8 +1,18 @@
 # Data-Science-Assignment
+
+## Mini Assignments
 - [Mini Assignment 1](./miniassignment1.py)
 - [Mini Assignment 2](./miniassignment2.py)
 - [Mini Assignment 3](./miniassignment3.py)
-- [Mini Assignment 3](./miniassignment4.py)
+- [Mini Assignment 4](./miniassignment4.py)
+
+## Assignment 1 - Python Functions & Basic Programs
+
+1. [countVowels.py](./assignment1/countVowels.py) - Count vowels and consonants in a word using functions
+2. [diceroll.py](./assignment1/diceroll.py) - Dice rolling simulator (10 rolls) and count occurrences of 6
+3. [gradecalculator.py](./assignment1/gradecalculator.py) - Grade calculator for multiple students with A-F grading
+4. [largestNumber.py](./assignment1/largestNumber.py) - Find the largest of three numbers using a function
+5. [multiplicationTable.py](./assignment1/multiplicationTable.py) - Multiplication table with highlighting of multiples of 5
 
 ## Implementation of Data Structures in Python
 ### Graph
