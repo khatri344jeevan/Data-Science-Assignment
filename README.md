@@ -16,28 +16,28 @@
 
 ## Implementation of Data Structures in Python
 ### Graph
-- [graphLibrary.py](./Implementation%20Of%20Data%20Structure/graph1.py)
-- [graphScratch.py](./Implementation%20Of%20Data%20Structure/graph2.py)
+- [graph Using Library](./Implementation%20Of%20Data%20Structure/graph1.py)
+- [graph Scratch](./Implementation%20Of%20Data%20Structure/graph2.py)
 
 ### Heap
-- [heapLibrary.py](./Implementation%20Of%20Data%20Structure/heap1.py)
-- [heapScratch.py](./Implementation%20Of%20Data%20Structure/heap2.py)
+- [heap Usin Library](./Implementation%20Of%20Data%20Structure/heap1.py)
+- [heap Scratch](./Implementation%20Of%20Data%20Structure/heap2.py)
 
 ### Linked List
-- [linkedlistLibrary.py](./Implementation%20Of%20Data%20Structure/linkedlist1.py)
-- [linkedlistScratch.py](./Implementation%20Of%20Data%20Structure/linkedlist2.py)
+- [linkedlist using Library](./Implementation%20Of%20Data%20Structure/linkedlist1.py)
+- [linkedlist Scratch](./Implementation%20Of%20Data%20Structure/linkedlist2.py)
 
 ### Queue
-- [queueLibrary.py](./Implementation%20Of%20Data%20Structure/queue1.py)
-- [queueScratch.py](./Implementation%20Of%20Data%20Structure/queue2.py)
+- [queue Using Library](./Implementation%20Of%20Data%20Structure/queue1.py)
+- [queue Scratch](./Implementation%20Of%20Data%20Structure/queue2.py)
 
 ### Stack
-- [stackLibrary.py](./Implementation%20Of%20Data%20Structure/stack1.py)
-- [stackScratch.py](./Implementation%20Of%20Data%20Structure/stack2.py)
+- [stack Using Library](./Implementation%20Of%20Data%20Structure/stack1.py)
+- [stackScratch](./Implementation%20Of%20Data%20Structure/stack2.py)
 
 ### Tree
-- [treeLibrary.py](./Implementation%20Of%20Data%20Structure/tree1.py)
-- [treeScratch.py](./Implementation%20Of%20Data%20Structure/tree2.py)
+- [tree Using Library](./Implementation%20Of%20Data%20Structure/tree1.py)
+- [tree Scratch](./Implementation%20Of%20Data%20Structure/tree2.py)
 
 ## Statistics Calculation
 - [Using Numpy](./numpyStatscalculationFirst/statsNumpy1.py)
