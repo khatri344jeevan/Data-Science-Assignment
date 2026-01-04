@@ -42,3 +42,6 @@
 ## Statistics Calculation
 - [Using Numpy](./numpyStatscalculationFirst/statsNumpy1.py)
 - [Scratch Implementation](./numpyStatscalculationFirst/ScratchStats.py)
+
+## Numpy Documentation Tutorial(Assignment)
+- [Numpy](./Numpy/numpyQuickStart.ipynb)
